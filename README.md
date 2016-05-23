@@ -10,4 +10,8 @@ Apache Cassandra is used
 
 ## Logger.go
 
+<<<<<<< HEAD
 ## Model.go
+=======
+## Repo.go
+>>>>>>> master
