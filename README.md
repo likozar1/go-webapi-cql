@@ -7,3 +7,5 @@ Apache Cassandra is used
 ## Repo.go
 
 ## Route.go
+
+## Logger.go
