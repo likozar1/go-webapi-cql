@@ -9,3 +9,5 @@ Apache Cassandra is used
 ## Route.go
 
 ## Logger.go
+
+## Model.go
